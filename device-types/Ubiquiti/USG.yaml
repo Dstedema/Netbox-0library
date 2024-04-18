@@ -1,0 +1,18 @@
+---
+manufacturer: Ubiquiti
+model: UniFi Security Gateway
+slug: unifi-security-gateway
+part_number: USG
+u_height: 0
+is_full_depth: false
+comments: ''
+console-ports:
+- name: console
+  type: rj-45
+interfaces:
+- name: LAN 1
+  type: 1000base-t
+- name: WAN 1
+  type: 1000base-t
+- name: WAN 2 / LAN 2
+  type: 1000base-t

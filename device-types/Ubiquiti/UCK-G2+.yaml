@@ -1,0 +1,11 @@
+---
+manufacturer: Ubiquiti
+model: UniFi Cloud Key Gen2 Plus
+slug: unifi-cloud-key-gen2-plus
+part_number: UCK-G2-PLUS
+u_height: 1
+is_full_depth: false
+comments: ''
+interfaces:
+- name: '1'
+  type: 1000base-t
