@@ -1,0 +1,30 @@
+---
+manufacturer: TP-Link
+model: T1500G-8T
+slug: tp-link-t1500g-8t
+part_number: T1500G-8T
+comments: ''
+is_full_depth: false
+u_height: 1
+airflow: right-to-left
+power-ports:
+  - name: PS1
+    type: iec-60320-c14
+    maximum_draw: 5.75
+interfaces:
+  - name: Port 1
+    type: 1000base-t
+  - name: Port 2
+    type: 1000base-t
+  - name: Port 3
+    type: 1000base-t
+  - name: Port 4
+    type: 1000base-t
+  - name: Port 5
+    type: 1000base-t
+  - name: Port 6
+    type: 1000base-t
+  - name: Port 7
+    type: 1000base-t
+  - name: Port 8
+    type: 1000base-t

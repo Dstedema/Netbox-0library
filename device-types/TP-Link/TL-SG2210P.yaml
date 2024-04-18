@@ -1,0 +1,51 @@
+---
+manufacturer: TP-Link
+model: TL-SG2210P
+slug: tp-link-tl-sg2210p
+part_number: TL-SG2210P
+comments: ''
+is_full_depth: false
+u_height: 1
+airflow: right-to-left
+power-ports:
+  - name: PS1
+    type: iec-60320-c14
+    maximum_draw: 77.8
+interfaces:
+  - name: Port 1
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Port 2
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Port 3
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Port 4
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Port 5
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Port 6
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Port 7
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Port 8
+    type: 1000base-t
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Port 9
+    type: 1000base-x-sfp
+  - name: Port 10
+    type: 1000base-x-sfp
+
