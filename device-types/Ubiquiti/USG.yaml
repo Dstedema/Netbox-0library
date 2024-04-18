@@ -3,7 +3,7 @@ manufacturer: Ubiquiti
 model: UniFi Security Gateway
 slug: unifi-security-gateway
 part_number: USG
-u_height: 0
+u_height: 0.5
 is_full_depth: false
 comments: ''
 console-ports:
